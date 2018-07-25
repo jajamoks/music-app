@@ -1,6 +1,15 @@
-# vue-music-app
+# music-app
 
-> A Vue.js project
+> This small demo show how to crawl data with node.js and display it in a Vue.js web app. 
+
+Live demo at [http://musicapp.demo.kwl.im/](http://musicapp.demo.kwl.im/)
+ 
+![](./example.gif)
+
+Switch you PC browser to mobile device mode is required.  
+![](./img.PNG)
+
+
 
 ## Build Setup
 
@@ -17,10 +26,5 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
-## Demo
-
-Click [here](http://musicapp.demo.kwl.im) to watch the demo.  
-Switch you PC browser to mobile device mode is required.  
-![](./img.PNG)
 
  
